@@ -1,4 +1,4 @@
 Archivo Daniel
 Hola mi nombre es Daniel, mucho gusto en conocerlos!
-Agrego esto desde SSH y lo modifico para causar conflictos.
-Modifico linea 4
+Nos vemos despues, saludos
+Hoy soy Fernando
